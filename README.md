@@ -8,6 +8,5 @@ Basic knowledge of C, JavaScript, and Python, and I'm currently exploring app de
 - Languages: JavaScript, Python, HTML/CSS, Java, MySql, C++, C
 
 📫 Let's Connect:
-- 🌐 Portfolio: [Your Portfolio Link]
 - 📧 Email: mehdisajjad12@gmail.com
 - 📱 LinkedIn: linkedin.com/in/hassan-mehdi03

@@ -1,7 +1,7 @@
 
 Hi there! It's me Hassan Mehdi. I'm a developer with a passion for learning new technologies and creating innovative solutions.
-I have experience in C++, MySQL, and HTML/CSS.
-Basic knowledge of C, JavaScript, and Python, and I'm currently exploring app development.
+I have experience in Java, React-Native, C++, Javascript, MySQL, and HTML/CSS.
+Basic knowledge of C and Python, and I'm currently exploring app development.
 
 
 🔧 Tech Stack:

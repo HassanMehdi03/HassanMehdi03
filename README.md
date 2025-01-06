@@ -6,6 +6,7 @@ Basic knowledge of C and Python, and I'm currently exploring app development.
 
 🔧 Tech Stack:
 - Languages: JavaScript, Python, HTML/CSS, Java, MySql, C++, C
+- FrameWorks: React Native
 
 📫 Let's Connect:
 - 📧 Email: mehdisajjad12@gmail.com
